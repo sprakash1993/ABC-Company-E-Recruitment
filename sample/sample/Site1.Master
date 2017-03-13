@@ -1,0 +1,59 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="sample.Site1" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    
+    <script type="text/javascript" src="Javascript1.js"></script>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <%--  <link rel="stylesheet" type="text/css" href="App_Themes\Theme1\style.css" />--%>
+    <link rel="stylesheet" type="text/css" href="style.css" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <div class="main">
+  <div class="header">
+    <div class="header_resize">
+      <div class="logo">
+        <h1><a href="index.html"><span>ABC</span> Company<br /><small>e-Recruitment System</small></a></h1>
+      </div>
+      <div class="menu_nav">
+        
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder3" runat="server">
+        
+        </asp:ContentPlaceHolder>
+         
+        
+      </div>
+      <div class="clr"></div>
+    </div>
+  </div>
+        <div class="content">
+
+    <div class="content_bgcomplete">
+	    </div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+        
+            </asp:ContentPlaceHolder>
+    <div class="content_resize">
+
+    <form id="form1" runat="server">
+    
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    
+    </form>
+        <div class="clr"></div>
+        </div>
+      </div>
+    <div class="footer">
+    <div class="footer_resize">
+      <p style="text-align:center">&copy; Copyright ABC Company Private Ltd. &reg</p>
+    </div>
+  </div>
+</div>
+<div align=center></div></body>
+</html>

@@ -1,0 +1,42 @@
+C:\Users\852724\documents\visual studio 2012\Projects\sample\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+C:\Users\852724\documents\visual studio 2012\Projects\sample\BO\bin\Debug\BO.dll
+C:\Users\852724\documents\visual studio 2012\Projects\sample\BO\bin\Debug\BO.pdb
+C:\Users\852724\documents\visual studio 2012\Projects\sample\BO\bin\Debug\Types.dll
+C:\Users\852724\documents\visual studio 2012\Projects\sample\BO\bin\Debug\Types.pdb
+C:\Users\852724\documents\visual studio 2012\Projects\sample\BO\obj\Debug\BO.dll
+C:\Users\852724\documents\visual studio 2012\Projects\sample\BO\obj\Debug\BO.pdb
+C:\Users\852724\Desktop\sample\BO\obj\Debug\BO.dll
+C:\Users\852724\Desktop\sample\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+C:\Users\852724\Desktop\sample\BO\bin\Debug\BO.dll
+C:\Users\852724\Desktop\sample\BO\bin\Debug\BO.pdb
+C:\Users\852724\Desktop\sample\BO\bin\Debug\Types.dll
+C:\Users\852724\Desktop\sample\BO\bin\Debug\Types.pdb
+C:\Users\852724\Desktop\sample\BO\obj\Debug\BO.pdb
+C:\Users\SAM\Downloads\sample\BO\bin\Debug\BO.dll
+C:\Users\SAM\Downloads\sample\BO\bin\Debug\BO.pdb
+C:\Users\SAM\Downloads\sample\BO\bin\Debug\Types.dll
+C:\Users\SAM\Downloads\sample\BO\bin\Debug\Types.pdb
+C:\Users\SAM\Downloads\sample\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+C:\Users\SAM\Downloads\sample\BO\obj\Debug\BO.dll
+C:\Users\SAM\Downloads\sample\BO\obj\Debug\BO.pdb
+C:\Users\SAM\Desktop\sample\BO\bin\Debug\BO.dll
+C:\Users\SAM\Desktop\sample\BO\bin\Debug\BO.pdb
+C:\Users\SAM\Desktop\sample\BO\bin\Debug\Types.dll
+C:\Users\SAM\Desktop\sample\BO\bin\Debug\Types.pdb
+C:\Users\SAM\Desktop\sample\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+C:\Users\SAM\Desktop\sample\BO\obj\Debug\BO.dll
+C:\Users\SAM\Desktop\sample\BO\obj\Debug\BO.pdb
+C:\Users\847121\Desktop\New folder\sample\BO\bin\Debug\BO.dll
+C:\Users\847121\Desktop\New folder\sample\BO\bin\Debug\BO.pdb
+C:\Users\847121\Desktop\New folder\sample\BO\bin\Debug\Types.dll
+C:\Users\847121\Desktop\New folder\sample\BO\bin\Debug\Types.pdb
+C:\Users\847121\Desktop\New folder\sample\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+C:\Users\847121\Desktop\New folder\sample\BO\obj\Debug\BO.dll
+C:\Users\847121\Desktop\New folder\sample\BO\obj\Debug\BO.pdb
+D:\sarojini\TFS\HYD01_EREC\TEAM 3\Code\sample\BO\bin\Debug\BO.dll
+D:\sarojini\TFS\HYD01_EREC\TEAM 3\Code\sample\BO\bin\Debug\BO.pdb
+D:\sarojini\TFS\HYD01_EREC\TEAM 3\Code\sample\BO\bin\Debug\Types.dll
+D:\sarojini\TFS\HYD01_EREC\TEAM 3\Code\sample\BO\bin\Debug\Types.pdb
+D:\sarojini\TFS\HYD01_EREC\TEAM 3\Code\sample\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+D:\sarojini\TFS\HYD01_EREC\TEAM 3\Code\sample\BO\obj\Debug\BO.dll
+D:\sarojini\TFS\HYD01_EREC\TEAM 3\Code\sample\BO\obj\Debug\BO.pdb

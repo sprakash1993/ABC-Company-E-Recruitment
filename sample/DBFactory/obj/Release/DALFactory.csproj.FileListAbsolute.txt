@@ -1,0 +1,65 @@
+C:\Users\847121\Desktop\New folder\sample\DBFactory\bin\Release\DBFactory.dll
+C:\Users\847121\Desktop\New folder\sample\DBFactory\bin\Release\DBFactory.pdb
+C:\Users\847121\Desktop\New folder\sample\DBFactory\bin\Release\DB.dll
+C:\Users\847121\Desktop\New folder\sample\DBFactory\bin\Release\Types.dll
+C:\Users\847121\Desktop\New folder\sample\DBFactory\bin\Release\BOFactory.dll
+C:\Users\847121\Desktop\New folder\sample\DBFactory\bin\Release\BO.dll
+C:\Users\847121\Desktop\New folder\sample\DBFactory\bin\Release\DB.pdb
+C:\Users\847121\Desktop\New folder\sample\DBFactory\bin\Release\Types.pdb
+C:\Users\847121\Desktop\New folder\sample\DBFactory\bin\Release\BOFactory.pdb
+C:\Users\847121\Desktop\New folder\sample\DBFactory\bin\Release\BO.pdb
+C:\Users\847121\Desktop\New folder\sample\DBFactory\obj\Release\DALFactory.csprojResolveAssemblyReference.cache
+C:\Users\847121\Desktop\New folder\sample\DBFactory\obj\Release\DBFactory.dll
+C:\Users\847121\Desktop\New folder\sample\DBFactory\obj\Release\DBFactory.pdb
+C:\Users\852724\Desktop\sample\DBFactory\bin\Release\DBFactory.dll
+C:\Users\852724\Desktop\sample\DBFactory\bin\Release\DBFactory.pdb
+C:\Users\852724\Desktop\sample\DBFactory\bin\Release\DB.dll
+C:\Users\852724\Desktop\sample\DBFactory\bin\Release\Types.dll
+C:\Users\852724\Desktop\sample\DBFactory\bin\Release\BOFactory.dll
+C:\Users\852724\Desktop\sample\DBFactory\bin\Release\BO.dll
+C:\Users\852724\Desktop\sample\DBFactory\bin\Release\DB.pdb
+C:\Users\852724\Desktop\sample\DBFactory\bin\Release\Types.pdb
+C:\Users\852724\Desktop\sample\DBFactory\bin\Release\BOFactory.pdb
+C:\Users\852724\Desktop\sample\DBFactory\bin\Release\BO.pdb
+C:\Users\852724\Desktop\sample\DBFactory\obj\Release\DALFactory.csprojResolveAssemblyReference.cache
+C:\Users\852724\Desktop\sample\DBFactory\obj\Release\DBFactory.dll
+C:\Users\852724\Desktop\sample\DBFactory\obj\Release\DBFactory.pdb
+C:\Users\847121\Desktop\sample\DBFactory\bin\Release\DBFactory.dll
+C:\Users\847121\Desktop\sample\DBFactory\bin\Release\DBFactory.pdb
+C:\Users\847121\Desktop\sample\DBFactory\bin\Release\DB.dll
+C:\Users\847121\Desktop\sample\DBFactory\bin\Release\Types.dll
+C:\Users\847121\Desktop\sample\DBFactory\bin\Release\BOFactory.dll
+C:\Users\847121\Desktop\sample\DBFactory\bin\Release\BO.dll
+C:\Users\847121\Desktop\sample\DBFactory\bin\Release\DB.pdb
+C:\Users\847121\Desktop\sample\DBFactory\bin\Release\Types.pdb
+C:\Users\847121\Desktop\sample\DBFactory\bin\Release\BOFactory.pdb
+C:\Users\847121\Desktop\sample\DBFactory\bin\Release\BO.pdb
+C:\Users\847121\Desktop\sample\DBFactory\obj\Release\DALFactory.csprojResolveAssemblyReference.cache
+C:\Users\847121\Desktop\sample\DBFactory\obj\Release\DBFactory.dll
+C:\Users\847121\Desktop\sample\DBFactory\obj\Release\DBFactory.pdb
+F:\down\sample25th-9pm\sample\DBFactory\bin\Release\DBFactory.dll
+F:\down\sample25th-9pm\sample\DBFactory\bin\Release\DBFactory.pdb
+F:\down\sample25th-9pm\sample\DBFactory\bin\Release\DB.dll
+F:\down\sample25th-9pm\sample\DBFactory\bin\Release\Types.dll
+F:\down\sample25th-9pm\sample\DBFactory\bin\Release\BOFactory.dll
+F:\down\sample25th-9pm\sample\DBFactory\bin\Release\BO.dll
+F:\down\sample25th-9pm\sample\DBFactory\bin\Release\DB.pdb
+F:\down\sample25th-9pm\sample\DBFactory\bin\Release\Types.pdb
+F:\down\sample25th-9pm\sample\DBFactory\bin\Release\BOFactory.pdb
+F:\down\sample25th-9pm\sample\DBFactory\bin\Release\BO.pdb
+F:\down\sample25th-9pm\sample\DBFactory\obj\Release\DALFactory.csprojResolveAssemblyReference.cache
+F:\down\sample25th-9pm\sample\DBFactory\obj\Release\DBFactory.dll
+F:\down\sample25th-9pm\sample\DBFactory\obj\Release\DBFactory.pdb
+I:\Drive Backup\F Drive\down\sample25th-9pm\sample\DBFactory\bin\Release\DBFactory.dll
+I:\Drive Backup\F Drive\down\sample25th-9pm\sample\DBFactory\bin\Release\DBFactory.pdb
+I:\Drive Backup\F Drive\down\sample25th-9pm\sample\DBFactory\bin\Release\DB.dll
+I:\Drive Backup\F Drive\down\sample25th-9pm\sample\DBFactory\bin\Release\Types.dll
+I:\Drive Backup\F Drive\down\sample25th-9pm\sample\DBFactory\bin\Release\BOFactory.dll
+I:\Drive Backup\F Drive\down\sample25th-9pm\sample\DBFactory\bin\Release\BO.dll
+I:\Drive Backup\F Drive\down\sample25th-9pm\sample\DBFactory\bin\Release\DB.pdb
+I:\Drive Backup\F Drive\down\sample25th-9pm\sample\DBFactory\bin\Release\Types.pdb
+I:\Drive Backup\F Drive\down\sample25th-9pm\sample\DBFactory\bin\Release\BOFactory.pdb
+I:\Drive Backup\F Drive\down\sample25th-9pm\sample\DBFactory\bin\Release\BO.pdb
+I:\Drive Backup\F Drive\down\sample25th-9pm\sample\DBFactory\obj\Release\DALFactory.csprojResolveAssemblyReference.cache
+I:\Drive Backup\F Drive\down\sample25th-9pm\sample\DBFactory\obj\Release\DBFactory.dll
+I:\Drive Backup\F Drive\down\sample25th-9pm\sample\DBFactory\obj\Release\DBFactory.pdb

@@ -1,0 +1,35 @@
+C:\Users\847121\Desktop\New folder\sample\BO\bin\Release\BO.dll
+C:\Users\847121\Desktop\New folder\sample\BO\bin\Release\BO.pdb
+C:\Users\847121\Desktop\New folder\sample\BO\bin\Release\Types.dll
+C:\Users\847121\Desktop\New folder\sample\BO\bin\Release\Types.pdb
+C:\Users\847121\Desktop\New folder\sample\BO\obj\Release\BO.csprojResolveAssemblyReference.cache
+C:\Users\847121\Desktop\New folder\sample\BO\obj\Release\BO.dll
+C:\Users\847121\Desktop\New folder\sample\BO\obj\Release\BO.pdb
+C:\Users\852724\Desktop\sample\BO\bin\Release\BO.dll
+C:\Users\852724\Desktop\sample\BO\bin\Release\BO.pdb
+C:\Users\852724\Desktop\sample\BO\bin\Release\Types.dll
+C:\Users\852724\Desktop\sample\BO\bin\Release\Types.pdb
+C:\Users\852724\Desktop\sample\BO\obj\Release\BO.csprojResolveAssemblyReference.cache
+C:\Users\852724\Desktop\sample\BO\obj\Release\BO.dll
+C:\Users\852724\Desktop\sample\BO\obj\Release\BO.pdb
+C:\Users\847121\Desktop\sample\BO\bin\Release\BO.dll
+C:\Users\847121\Desktop\sample\BO\bin\Release\BO.pdb
+C:\Users\847121\Desktop\sample\BO\bin\Release\Types.dll
+C:\Users\847121\Desktop\sample\BO\bin\Release\Types.pdb
+C:\Users\847121\Desktop\sample\BO\obj\Release\BO.csprojResolveAssemblyReference.cache
+C:\Users\847121\Desktop\sample\BO\obj\Release\BO.dll
+C:\Users\847121\Desktop\sample\BO\obj\Release\BO.pdb
+F:\down\sample25th-9pm\sample\BO\bin\Release\BO.dll
+F:\down\sample25th-9pm\sample\BO\bin\Release\BO.pdb
+F:\down\sample25th-9pm\sample\BO\bin\Release\Types.dll
+F:\down\sample25th-9pm\sample\BO\bin\Release\Types.pdb
+F:\down\sample25th-9pm\sample\BO\obj\Release\BO.csprojResolveAssemblyReference.cache
+F:\down\sample25th-9pm\sample\BO\obj\Release\BO.dll
+F:\down\sample25th-9pm\sample\BO\obj\Release\BO.pdb
+I:\Drive Backup\F Drive\down\sample25th-9pm\sample\BO\bin\Release\BO.dll
+I:\Drive Backup\F Drive\down\sample25th-9pm\sample\BO\bin\Release\BO.pdb
+I:\Drive Backup\F Drive\down\sample25th-9pm\sample\BO\bin\Release\Types.dll
+I:\Drive Backup\F Drive\down\sample25th-9pm\sample\BO\bin\Release\Types.pdb
+I:\Drive Backup\F Drive\down\sample25th-9pm\sample\BO\obj\Release\BO.csprojResolveAssemblyReference.cache
+I:\Drive Backup\F Drive\down\sample25th-9pm\sample\BO\obj\Release\BO.dll
+I:\Drive Backup\F Drive\down\sample25th-9pm\sample\BO\obj\Release\BO.pdb

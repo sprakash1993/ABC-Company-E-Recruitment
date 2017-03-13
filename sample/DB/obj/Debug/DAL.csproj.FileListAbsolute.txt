@@ -1,0 +1,58 @@
+C:\Users\852724\documents\visual studio 2012\Projects\sample\DB\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\852724\documents\visual studio 2012\Projects\sample\DB\bin\Debug\DB.dll
+C:\Users\852724\documents\visual studio 2012\Projects\sample\DB\bin\Debug\DB.pdb
+C:\Users\852724\documents\visual studio 2012\Projects\sample\DB\bin\Debug\BOFactory.dll
+C:\Users\852724\documents\visual studio 2012\Projects\sample\DB\bin\Debug\Types.dll
+C:\Users\852724\documents\visual studio 2012\Projects\sample\DB\bin\Debug\BO.dll
+C:\Users\852724\documents\visual studio 2012\Projects\sample\DB\bin\Debug\BOFactory.pdb
+C:\Users\852724\documents\visual studio 2012\Projects\sample\DB\bin\Debug\Types.pdb
+C:\Users\852724\documents\visual studio 2012\Projects\sample\DB\bin\Debug\BO.pdb
+C:\Users\852724\documents\visual studio 2012\Projects\sample\DB\obj\Debug\DB.dll
+C:\Users\852724\documents\visual studio 2012\Projects\sample\DB\obj\Debug\DB.pdb
+C:\Users\852724\Desktop\sample\DB\obj\Debug\DB.dll
+C:\Users\852724\Desktop\sample\DB\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\852724\Desktop\sample\DB\bin\Debug\DB.dll
+C:\Users\852724\Desktop\sample\DB\bin\Debug\DB.pdb
+C:\Users\852724\Desktop\sample\DB\bin\Debug\BOFactory.dll
+C:\Users\852724\Desktop\sample\DB\bin\Debug\Types.dll
+C:\Users\852724\Desktop\sample\DB\bin\Debug\BO.dll
+C:\Users\852724\Desktop\sample\DB\bin\Debug\BOFactory.pdb
+C:\Users\852724\Desktop\sample\DB\bin\Debug\Types.pdb
+C:\Users\852724\Desktop\sample\DB\bin\Debug\BO.pdb
+C:\Users\852724\Desktop\sample\DB\obj\Debug\DB.pdb
+C:\Users\SAM\Downloads\sample\DB\bin\Debug\DB.dll
+C:\Users\SAM\Downloads\sample\DB\bin\Debug\DB.pdb
+C:\Users\SAM\Downloads\sample\DB\bin\Debug\BOFactory.dll
+C:\Users\SAM\Downloads\sample\DB\bin\Debug\Types.dll
+C:\Users\SAM\Downloads\sample\DB\bin\Debug\BO.dll
+C:\Users\SAM\Downloads\sample\DB\bin\Debug\BOFactory.pdb
+C:\Users\SAM\Downloads\sample\DB\bin\Debug\Types.pdb
+C:\Users\SAM\Downloads\sample\DB\bin\Debug\BO.pdb
+C:\Users\SAM\Downloads\sample\DB\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\SAM\Downloads\sample\DB\obj\Debug\DB.dll
+C:\Users\SAM\Downloads\sample\DB\obj\Debug\DB.pdb
+C:\Users\SAM\Desktop\sample\DB\bin\Debug\DB.dll
+C:\Users\SAM\Desktop\sample\DB\bin\Debug\DB.pdb
+C:\Users\SAM\Desktop\sample\DB\bin\Debug\BOFactory.dll
+C:\Users\SAM\Desktop\sample\DB\bin\Debug\Types.dll
+C:\Users\SAM\Desktop\sample\DB\bin\Debug\BO.dll
+C:\Users\SAM\Desktop\sample\DB\bin\Debug\BOFactory.pdb
+C:\Users\SAM\Desktop\sample\DB\bin\Debug\Types.pdb
+C:\Users\SAM\Desktop\sample\DB\bin\Debug\BO.pdb
+C:\Users\SAM\Desktop\sample\DB\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\SAM\Desktop\sample\DB\obj\Debug\DB.dll
+C:\Users\SAM\Desktop\sample\DB\obj\Debug\DB.pdb
+C:\Users\847121\Desktop\New folder\sample\DB\bin\Debug\DB.dll
+C:\Users\847121\Desktop\New folder\sample\DB\bin\Debug\DB.pdb
+C:\Users\847121\Desktop\New folder\sample\DB\bin\Debug\BOFactory.dll
+C:\Users\847121\Desktop\New folder\sample\DB\bin\Debug\Types.dll
+C:\Users\847121\Desktop\New folder\sample\DB\bin\Debug\BO.dll
+C:\Users\847121\Desktop\New folder\sample\DB\bin\Debug\BOFactory.pdb
+C:\Users\847121\Desktop\New folder\sample\DB\bin\Debug\Types.pdb
+C:\Users\847121\Desktop\New folder\sample\DB\bin\Debug\BO.pdb
+C:\Users\847121\Desktop\New folder\sample\DB\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\847121\Desktop\New folder\sample\DB\obj\Debug\DB.dll
+C:\Users\847121\Desktop\New folder\sample\DB\obj\Debug\DB.pdb
+D:\sarojini\TFS\HYD01_EREC\TEAM 3\Code\sample\DB\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\sarojini\TFS\HYD01_EREC\TEAM 3\Code\sample\DB\obj\Debug\DB.dll
+D:\sarojini\TFS\HYD01_EREC\TEAM 3\Code\sample\DB\obj\Debug\DB.pdb

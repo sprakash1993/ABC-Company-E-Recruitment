@@ -1,0 +1,85 @@
+C:\Users\847121\Desktop\New folder\sample\BLL\bin\Release\BLL.dll
+C:\Users\847121\Desktop\New folder\sample\BLL\bin\Release\BLL.pdb
+C:\Users\847121\Desktop\New folder\sample\BLL\bin\Release\BLLFactory.dll
+C:\Users\847121\Desktop\New folder\sample\BLL\bin\Release\Types.dll
+C:\Users\847121\Desktop\New folder\sample\BLL\bin\Release\BOFactory.dll
+C:\Users\847121\Desktop\New folder\sample\BLL\bin\Release\DBFactory.dll
+C:\Users\847121\Desktop\New folder\sample\BLL\bin\Release\BO.dll
+C:\Users\847121\Desktop\New folder\sample\BLL\bin\Release\DB.dll
+C:\Users\847121\Desktop\New folder\sample\BLL\bin\Release\BLLFactory.pdb
+C:\Users\847121\Desktop\New folder\sample\BLL\bin\Release\Types.pdb
+C:\Users\847121\Desktop\New folder\sample\BLL\bin\Release\BOFactory.pdb
+C:\Users\847121\Desktop\New folder\sample\BLL\bin\Release\DBFactory.pdb
+C:\Users\847121\Desktop\New folder\sample\BLL\bin\Release\BO.pdb
+C:\Users\847121\Desktop\New folder\sample\BLL\bin\Release\DB.pdb
+C:\Users\847121\Desktop\New folder\sample\BLL\obj\Release\BLLFactory.csprojResolveAssemblyReference.cache
+C:\Users\847121\Desktop\New folder\sample\BLL\obj\Release\BLL.dll
+C:\Users\847121\Desktop\New folder\sample\BLL\obj\Release\BLL.pdb
+C:\Users\852724\Desktop\sample\BLL\bin\Release\BLL.dll
+C:\Users\852724\Desktop\sample\BLL\bin\Release\BLL.pdb
+C:\Users\852724\Desktop\sample\BLL\bin\Release\BLLFactory.dll
+C:\Users\852724\Desktop\sample\BLL\bin\Release\Types.dll
+C:\Users\852724\Desktop\sample\BLL\bin\Release\BOFactory.dll
+C:\Users\852724\Desktop\sample\BLL\bin\Release\DBFactory.dll
+C:\Users\852724\Desktop\sample\BLL\bin\Release\BO.dll
+C:\Users\852724\Desktop\sample\BLL\bin\Release\DB.dll
+C:\Users\852724\Desktop\sample\BLL\bin\Release\BLLFactory.pdb
+C:\Users\852724\Desktop\sample\BLL\bin\Release\Types.pdb
+C:\Users\852724\Desktop\sample\BLL\bin\Release\BOFactory.pdb
+C:\Users\852724\Desktop\sample\BLL\bin\Release\DBFactory.pdb
+C:\Users\852724\Desktop\sample\BLL\bin\Release\BO.pdb
+C:\Users\852724\Desktop\sample\BLL\bin\Release\DB.pdb
+C:\Users\852724\Desktop\sample\BLL\obj\Release\BLLFactory.csprojResolveAssemblyReference.cache
+C:\Users\852724\Desktop\sample\BLL\obj\Release\BLL.dll
+C:\Users\852724\Desktop\sample\BLL\obj\Release\BLL.pdb
+C:\Users\847121\Desktop\sample\BLL\bin\Release\BLL.dll
+C:\Users\847121\Desktop\sample\BLL\bin\Release\BLL.pdb
+C:\Users\847121\Desktop\sample\BLL\bin\Release\BLLFactory.dll
+C:\Users\847121\Desktop\sample\BLL\bin\Release\Types.dll
+C:\Users\847121\Desktop\sample\BLL\bin\Release\BOFactory.dll
+C:\Users\847121\Desktop\sample\BLL\bin\Release\DBFactory.dll
+C:\Users\847121\Desktop\sample\BLL\bin\Release\BO.dll
+C:\Users\847121\Desktop\sample\BLL\bin\Release\DB.dll
+C:\Users\847121\Desktop\sample\BLL\bin\Release\BLLFactory.pdb
+C:\Users\847121\Desktop\sample\BLL\bin\Release\Types.pdb
+C:\Users\847121\Desktop\sample\BLL\bin\Release\BOFactory.pdb
+C:\Users\847121\Desktop\sample\BLL\bin\Release\DBFactory.pdb
+C:\Users\847121\Desktop\sample\BLL\bin\Release\BO.pdb
+C:\Users\847121\Desktop\sample\BLL\bin\Release\DB.pdb
+C:\Users\847121\Desktop\sample\BLL\obj\Release\BLLFactory.csprojResolveAssemblyReference.cache
+C:\Users\847121\Desktop\sample\BLL\obj\Release\BLL.dll
+C:\Users\847121\Desktop\sample\BLL\obj\Release\BLL.pdb
+F:\down\sample25th-9pm\sample\BLL\bin\Release\BLL.dll
+F:\down\sample25th-9pm\sample\BLL\bin\Release\BLL.pdb
+F:\down\sample25th-9pm\sample\BLL\bin\Release\BLLFactory.dll
+F:\down\sample25th-9pm\sample\BLL\bin\Release\Types.dll
+F:\down\sample25th-9pm\sample\BLL\bin\Release\BOFactory.dll
+F:\down\sample25th-9pm\sample\BLL\bin\Release\DBFactory.dll
+F:\down\sample25th-9pm\sample\BLL\bin\Release\BO.dll
+F:\down\sample25th-9pm\sample\BLL\bin\Release\DB.dll
+F:\down\sample25th-9pm\sample\BLL\bin\Release\BLLFactory.pdb
+F:\down\sample25th-9pm\sample\BLL\bin\Release\Types.pdb
+F:\down\sample25th-9pm\sample\BLL\bin\Release\BOFactory.pdb
+F:\down\sample25th-9pm\sample\BLL\bin\Release\DBFactory.pdb
+F:\down\sample25th-9pm\sample\BLL\bin\Release\BO.pdb
+F:\down\sample25th-9pm\sample\BLL\bin\Release\DB.pdb
+F:\down\sample25th-9pm\sample\BLL\obj\Release\BLLFactory.csprojResolveAssemblyReference.cache
+F:\down\sample25th-9pm\sample\BLL\obj\Release\BLL.dll
+F:\down\sample25th-9pm\sample\BLL\obj\Release\BLL.pdb
+I:\Drive Backup\F Drive\down\sample25th-9pm\sample\BLL\bin\Release\BLL.dll
+I:\Drive Backup\F Drive\down\sample25th-9pm\sample\BLL\bin\Release\BLL.pdb
+I:\Drive Backup\F Drive\down\sample25th-9pm\sample\BLL\bin\Release\BLLFactory.dll
+I:\Drive Backup\F Drive\down\sample25th-9pm\sample\BLL\bin\Release\Types.dll
+I:\Drive Backup\F Drive\down\sample25th-9pm\sample\BLL\bin\Release\BOFactory.dll
+I:\Drive Backup\F Drive\down\sample25th-9pm\sample\BLL\bin\Release\DBFactory.dll
+I:\Drive Backup\F Drive\down\sample25th-9pm\sample\BLL\bin\Release\BO.dll
+I:\Drive Backup\F Drive\down\sample25th-9pm\sample\BLL\bin\Release\DB.dll
+I:\Drive Backup\F Drive\down\sample25th-9pm\sample\BLL\bin\Release\BLLFactory.pdb
+I:\Drive Backup\F Drive\down\sample25th-9pm\sample\BLL\bin\Release\Types.pdb
+I:\Drive Backup\F Drive\down\sample25th-9pm\sample\BLL\bin\Release\BOFactory.pdb
+I:\Drive Backup\F Drive\down\sample25th-9pm\sample\BLL\bin\Release\DBFactory.pdb
+I:\Drive Backup\F Drive\down\sample25th-9pm\sample\BLL\bin\Release\BO.pdb
+I:\Drive Backup\F Drive\down\sample25th-9pm\sample\BLL\bin\Release\DB.pdb
+I:\Drive Backup\F Drive\down\sample25th-9pm\sample\BLL\obj\Release\BLLFactory.csprojResolveAssemblyReference.cache
+I:\Drive Backup\F Drive\down\sample25th-9pm\sample\BLL\obj\Release\BLL.dll
+I:\Drive Backup\F Drive\down\sample25th-9pm\sample\BLL\obj\Release\BLL.pdb
